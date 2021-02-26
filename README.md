@@ -5,5 +5,5 @@
 This repository hosts a selection of data analysis lectures, mostly delivered at the University of Edinburgh/University of Zhejiang joint institute in Haining, China.
 
 Please feel free to reuse and modify this as you please, all lectures are licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
